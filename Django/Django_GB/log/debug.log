@@ -1,0 +1,132 @@
+INFO 2023-09-24 18:46:42,301 autoreload 1436 10904 Watching for file changes with StatReloader
+INFO 2023-09-24 18:46:44,744 basehttp 1436 13272 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 18:46:48,611 basehttp 1436 13272 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 20:55:12,776 autoreload 7940 2496 Watching for file changes with StatReloader
+INFO 2023-09-24 20:55:15,757 basehttp 7940 12376 "GET / HTTP/1.1" 200 13
+WARNING 2023-09-24 20:55:15,964 log 7940 12376 Not Found: /favicon.ico
+WARNING 2023-09-24 20:55:15,964 basehttp 7940 12376 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2023-09-24 20:55:34,982 basehttp 7940 12376 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 20:55:36,055 basehttp 7940 12376 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 20:55:36,678 basehttp 7940 12376 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 20:55:36,885 basehttp 7940 12376 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 20:55:37,070 basehttp 7940 12376 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 20:55:37,238 basehttp 7940 12376 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 20:55:49,838 basehttp 7940 12376 "GET /about/ HTTP/1.1" 200 8
+INFO 2023-09-24 20:57:19,131 autoreload 7940 2496 E:\GB_hw\Django\Django_GB\Django_GB\settings.py changed, reloading.
+INFO 2023-09-24 20:58:07,577 autoreload 7804 1276 Watching for file changes with StatReloader
+INFO 2023-09-24 20:58:11,097 basehttp 7804 7624 "GET /about/ HTTP/1.1" 200 8
+INFO 2023-09-24 20:58:12,886 basehttp 7804 7624 "GET /about/ HTTP/1.1" 200 8
+INFO 2023-09-24 20:58:16,819 basehttp 7804 7624 "GET / HTTP/1.1" 200 13
+INFO 2023-09-24 21:00:21,131 autoreload 7804 1276 E:\GB_hw\Django\Django_GB\hwapp\urls.py changed, reloading.
+INFO 2023-09-24 21:00:21,462 autoreload 9708 9304 Watching for file changes with StatReloader
+INFO 2023-09-24 21:01:40,661 autoreload 9708 9304 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:01:41,023 autoreload 12408 2288 Watching for file changes with StatReloader
+INFO 2023-09-24 21:02:37,662 autoreload 12408 2288 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:02:38,012 autoreload 6940 5312 Watching for file changes with StatReloader
+INFO 2023-09-24 21:02:56,593 autoreload 6940 5312 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:02:56,934 autoreload 1484 6104 Watching for file changes with StatReloader
+INFO 2023-09-24 21:03:09,270 autoreload 1484 6104 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:03:09,633 autoreload 9736 2260 Watching for file changes with StatReloader
+INFO 2023-09-24 21:05:12,586 autoreload 9736 2260 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:05:12,914 autoreload 7228 10196 Watching for file changes with StatReloader
+INFO 2023-09-24 21:06:18,644 autoreload 7228 10196 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:06:18,993 autoreload 2872 2288 Watching for file changes with StatReloader
+INFO 2023-09-24 21:06:50,040 autoreload 2872 2288 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:06:50,420 autoreload 10708 10472 Watching for file changes with StatReloader
+INFO 2023-09-24 21:08:45,342 autoreload 10708 10472 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:08:45,672 autoreload 10716 1396 Watching for file changes with StatReloader
+INFO 2023-09-24 21:08:48,591 basehttp 10716 2856 "GET / HTTP/1.1" 200 15
+INFO 2023-09-24 21:10:32,932 autoreload 10716 1396 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:10:33,262 autoreload 12816 4444 Watching for file changes with StatReloader
+INFO 2023-09-24 21:10:34,362 basehttp 12816 13108 "GET / HTTP/1.1" 200 61
+INFO 2023-09-24 21:10:46,630 basehttp 12816 13108 "GET / HTTP/1.1" 200 61
+INFO 2023-09-24 21:10:46,902 autoreload 12816 4444 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:10:47,245 autoreload 3388 2816 Watching for file changes with StatReloader
+INFO 2023-09-24 21:10:49,161 basehttp 3388 11788 "GET / HTTP/1.1" 200 60
+INFO 2023-09-24 21:10:50,046 basehttp 3388 11788 "GET / HTTP/1.1" 200 60
+INFO 2023-09-24 21:10:56,806 basehttp 3388 11788 "GET / HTTP/1.1" 200 60
+INFO 2023-09-24 21:10:56,902 autoreload 3388 2816 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:10:57,266 autoreload 8284 12520 Watching for file changes with StatReloader
+INFO 2023-09-24 21:10:59,073 basehttp 8284 10716 "GET / HTTP/1.1" 200 58
+INFO 2023-09-24 21:12:02,402 autoreload 8284 12520 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:12:02,742 autoreload 1288 4444 Watching for file changes with StatReloader
+INFO 2023-09-24 21:12:05,339 basehttp 1288 9492 "GET / HTTP/1.1" 200 136
+WARNING 2023-09-24 21:12:06,907 log 1288 9492 Not Found: /<HttpResponse
+WARNING 2023-09-24 21:12:06,907 basehttp 1288 9492 "GET /%3CHttpResponse HTTP/1.1" 404 2454
+INFO 2023-09-24 21:12:32,886 basehttp 1288 9492 "GET /about/ HTTP/1.1" 200 158
+INFO 2023-09-24 21:12:48,174 basehttp 1288 9492 "GET / HTTP/1.1" 200 136
+INFO 2023-09-24 21:12:54,180 basehttp 1288 9492 "GET /about/ HTTP/1.1" 200 158
+INFO 2023-09-24 21:13:04,742 basehttp 1288 9492 "GET /about/ HTTP/1.1" 200 158
+INFO 2023-09-24 21:13:04,812 autoreload 1288 4444 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:13:05,193 autoreload 6852 5416 Watching for file changes with StatReloader
+INFO 2023-09-24 21:13:05,986 basehttp 6852 2460 "GET /about/ HTTP/1.1" 200 159
+INFO 2023-09-24 21:15:04,472 autoreload 6852 5416 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:15:04,829 autoreload 8552 960 Watching for file changes with StatReloader
+INFO 2023-09-24 21:15:08,862 basehttp 8552 5084 "GET / HTTP/1.1" 200 58
+INFO 2023-09-24 21:15:16,074 basehttp 8552 5084 "GET /about/ HTTP/1.1" 200 159
+INFO 2023-09-24 21:15:35,047 autoreload 8552 960 E:\GB_hw\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-24 21:15:35,392 autoreload 4104 10444 Watching for file changes with StatReloader
+INFO 2023-09-26 15:36:30,201 autoreload 17132 13988 Watching for file changes with StatReloader
+INFO 2023-09-26 15:40:17,400 autoreload 11316 8032 Watching for file changes with StatReloader
+INFO 2023-09-26 15:40:22,642 basehttp 11316 16976 "GET / HTTP/1.1" 200 58
+WARNING 2023-09-26 15:40:22,724 log 11316 16976 Not Found: /favicon.ico
+WARNING 2023-09-26 15:40:22,724 basehttp 11316 16976 "GET /favicon.ico HTTP/1.1" 404 2440
+INFO 2023-09-26 15:41:07,035 autoreload 7544 17272 Watching for file changes with StatReloader
+INFO 2023-09-26 15:41:08,646 basehttp 7544 14544 "GET / HTTP/1.1" 200 58
+WARNING 2023-09-26 15:41:08,707 log 7544 14544 Not Found: /favicon.ico
+INFO 2023-09-26 15:41:08,707 basehttp 7544 14544 - Broken pipe from ('127.0.0.1', 60697)
+INFO 2023-09-26 15:42:13,230 basehttp 7544 6836 "GET /about HTTP/1.1" 301 0
+INFO 2023-09-26 15:42:13,240 basehttp 7544 16660 "GET /about/ HTTP/1.1" 200 160
+INFO 2023-09-26 15:46:43,758 autoreload 17308 15060 Watching for file changes with StatReloader
+INFO 2023-09-26 15:46:45,180 basehttp 17308 15880 "GET / HTTP/1.1" 200 106
+WARNING 2023-09-26 15:46:45,241 log 17308 15880 Not Found: /favicon.ico
+INFO 2023-09-26 15:46:45,243 basehttp 17308 15880 - Broken pipe from ('127.0.0.1', 61158)
+INFO 2023-09-26 15:46:47,293 basehttp 17308 2928 "GET /about/ HTTP/1.1" 200 190
+WARNING 2023-09-26 15:46:47,324 log 17308 2928 Not Found: /favicon.ico
+INFO 2023-09-26 15:46:47,324 basehttp 17308 2928 - Broken pipe from ('127.0.0.1', 61161)
+INFO 2023-09-26 15:59:31,030 autoreload 17308 15060 C:\Users\USER\IdeaProjects\DjangoRepo\Django\Django_GB\Django_GB\settings.py changed, reloading.
+INFO 2023-09-26 15:59:31,424 autoreload 14652 5752 Watching for file changes with StatReloader
+INFO 2023-09-26 16:02:02,013 autoreload 7340 12228 Watching for file changes with StatReloader
+INFO 2023-09-26 16:02:03,917 basehttp 7340 6140 "GET / HTTP/1.1" 200 106
+WARNING 2023-09-26 16:02:03,978 log 7340 6140 Not Found: /favicon.ico
+INFO 2023-09-26 16:02:03,978 basehttp 7340 6140 - Broken pipe from ('127.0.0.1', 62339)
+INFO 2023-09-26 16:02:06,112 basehttp 7340 13316 "GET /about/ HTTP/1.1" 200 190
+WARNING 2023-09-26 16:02:06,142 log 7340 13316 Not Found: /favicon.ico
+INFO 2023-09-26 16:02:06,142 basehttp 7340 13316 - Broken pipe from ('127.0.0.1', 62342)
+INFO 2023-09-26 16:04:23,174 autoreload 7340 12228 C:\Users\USER\IdeaProjects\DjangoRepo\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-26 16:04:23,580 autoreload 14096 8124 Watching for file changes with StatReloader
+INFO 2023-09-26 16:04:35,618 basehttp 14096 7188 "GET /about/ HTTP/1.1" 200 190
+WARNING 2023-09-26 16:04:35,658 log 14096 7188 Not Found: /favicon.ico
+INFO 2023-09-26 16:04:35,658 basehttp 14096 7188 - Broken pipe from ('127.0.0.1', 62487)
+INFO 2023-09-26 16:04:37,985 basehttp 14096 6412 "GET / HTTP/1.1" 200 112
+WARNING 2023-09-26 16:04:38,015 log 14096 6412 Not Found: /favicon.ico
+INFO 2023-09-26 16:04:38,015 basehttp 14096 6412 - Broken pipe from ('127.0.0.1', 62491)
+INFO 2023-09-26 16:07:32,342 autoreload 14096 8124 C:\Users\USER\IdeaProjects\DjangoRepo\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-26 16:07:32,731 autoreload 13516 1276 Watching for file changes with StatReloader
+INFO 2023-09-26 16:07:34,332 basehttp 13516 16340 "GET / HTTP/1.1" 200 209
+WARNING 2023-09-26 16:07:34,382 log 13516 16340 Not Found: /images/favicon.png
+WARNING 2023-09-26 16:07:34,382 basehttp 13516 16340 "GET /images/favicon.png HTTP/1.1" 404 2461
+INFO 2023-09-26 16:07:57,371 autoreload 13516 1276 C:\Users\USER\IdeaProjects\DjangoRepo\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-26 16:07:57,777 autoreload 15844 14000 Watching for file changes with StatReloader
+INFO 2023-09-26 16:07:59,697 basehttp 15844 9604 "GET / HTTP/1.1" 200 216
+INFO 2023-09-26 16:07:59,778 basehttp 15844 9604 "GET /static/images/favicon.png HTTP/1.1" 200 588639
+INFO 2023-09-26 16:08:28,518 autoreload 15844 14000 C:\Users\USER\IdeaProjects\DjangoRepo\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-26 16:08:28,924 autoreload 17028 14064 Watching for file changes with StatReloader
+INFO 2023-09-26 16:08:29,082 basehttp 17028 9856 "GET /about/ HTTP/1.1" 200 278
+WARNING 2023-09-26 16:08:29,340 log 17028 10704 Not Found: /about/static/images/favicon.png
+WARNING 2023-09-26 16:08:29,340 basehttp 17028 10704 "GET /about/static/images/favicon.png HTTP/1.1" 404 2500
+INFO 2023-09-26 16:08:32,337 basehttp 17028 10704 "GET / HTTP/1.1" 200 216
+INFO 2023-09-26 16:08:34,623 basehttp 17028 10704 "GET /about/ HTTP/1.1" 200 278
+WARNING 2023-09-26 16:08:34,654 log 17028 10704 Not Found: /about/static/images/favicon.png
+INFO 2023-09-26 16:08:34,654 basehttp 17028 10704 - Broken pipe from ('127.0.0.1', 62723)
+INFO 2023-09-26 16:08:35,842 basehttp 17028 9856 "GET /about/ HTTP/1.1" 200 278
+WARNING 2023-09-26 16:08:35,872 log 17028 9856 Not Found: /about/static/images/favicon.png
+INFO 2023-09-26 16:08:35,872 basehttp 17028 9856 - Broken pipe from ('127.0.0.1', 62720)
+INFO 2023-09-26 16:08:59,574 autoreload 17028 14064 C:\Users\USER\IdeaProjects\DjangoRepo\Django\Django_GB\hwapp\views.py changed, reloading.
+INFO 2023-09-26 16:08:59,949 autoreload 1640 14664 Watching for file changes with StatReloader
+INFO 2023-09-26 16:09:02,120 basehttp 1640 7804 "GET /about/ HTTP/1.1" 200 281
+INFO 2023-09-26 16:24:01,268 autoreload 10440 16936 Watching for file changes with StatReloader
+INFO 2023-09-26 16:24:02,567 basehttp 10440 11024 "GET / HTTP/1.1" 200 216
+INFO 2023-09-26 16:24:04,538 basehttp 10440 11024 "GET /about/ HTTP/1.1" 200 281
+WARNING 2023-09-26 16:24:07,851 log 10440 11024 Not Found: /favicon.ico
+INFO 2023-09-26 16:24:07,851 basehttp 10440 11024 - Broken pipe from ('127.0.0.1', 63829)
