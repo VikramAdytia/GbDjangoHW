@@ -1,0 +1,8 @@
+INFO 2023-09-29 16:39:54,259 views 11976 11476 Index page accessed
+ERROR 2023-09-29 16:40:01,872 views 11976 8792 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\USER\IdeaProjects\GbDjangoHW\Django\HW2app\ORMproject\ORMapp\views.py", line 15, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+INFO 2023-09-29 17:03:01,054 views 11656 5424 Index page accessed
+INFO 2023-09-29 17:55:06,133 views 9000 3692 Index page accessed
