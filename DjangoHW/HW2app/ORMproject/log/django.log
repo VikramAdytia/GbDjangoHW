@@ -128,3 +128,24 @@ WARNING 2023-09-29 17:55:23,976 log 9000 13352 Not Found: /dz/get_order
 WARNING 2023-09-29 17:55:23,976 basehttp 9000 13352 "GET /dz/get_order HTTP/1.1" 404 2778
 WARNING 2023-09-29 17:55:28,402 log 9000 13352 Not Found: /dz/get_order/1
 WARNING 2023-09-29 17:55:28,402 basehttp 9000 13352 "GET /dz/get_order/1 HTTP/1.1" 404 2784
+INFO 2023-10-01 07:53:35,931 autoreload 1972 5540 Watching for file changes with StatReloader
+INFO 2023-10-01 07:53:57,013 autoreload 3944 5244 Watching for file changes with StatReloader
+INFO 2023-10-01 07:54:54,713 autoreload 1972 5540 C:\Users\USER\IdeaProjects\GbDjangoHW\DjangoHW\HW2app\ORMproject\dz_ORMapp\views.py changed, reloading.
+INFO 2023-10-01 07:54:55,073 autoreload 1664 7856 Watching for file changes with StatReloader
+INFO 2023-10-01 07:54:55,572 autoreload 3944 5244 C:\Users\USER\IdeaProjects\GbDjangoHW\DjangoHW\HW2app\ORMproject\dz_ORMapp\views.py changed, reloading.
+INFO 2023-10-01 07:54:55,933 autoreload 13212 6024 Watching for file changes with StatReloader
+INFO 2023-10-01 07:54:57,276 basehttp 1664 5616 "GET / HTTP/1.1" 200 95
+INFO 2023-10-01 07:54:59,598 basehttp 1664 5616 "GET /dz/about/ HTTP/1.1" 200 106
+INFO 2023-10-01 19:57:21,257 autoreload 12072 7052 Watching for file changes with StatReloader
+INFO 2023-10-01 19:57:23,112 basehttp 12072 6536 "GET / HTTP/1.1" 200 95
+WARNING 2023-10-01 19:57:33,249 log 12072 6536 Not Found: /docks/
+WARNING 2023-10-01 19:57:33,249 basehttp 12072 6536 "GET /docks/ HTTP/1.1" 404 2530
+INFO 2023-10-01 19:57:45,462 basehttp 12072 6536 "GET /dz/ HTTP/1.1" 200 36
+WARNING 2023-10-01 19:57:51,626 log 12072 6536 Not Found: /dz/1
+WARNING 2023-10-01 19:57:51,626 basehttp 12072 6536 "GET /dz/1 HTTP/1.1" 404 2963
+WARNING 2023-10-01 19:58:10,339 log 12072 6536 Not Found: /dz/client/7
+WARNING 2023-10-01 19:58:10,339 basehttp 12072 6536 "GET /dz/client/7 HTTP/1.1" 404 2984
+INFO 2023-10-01 19:58:18,597 basehttp 12072 6288 "GET /dz/ HTTP/1.1" 200 36
+INFO 2023-10-01 19:58:27,115 basehttp 12072 6536 "GET /dz/client/1/7 HTTP/1.1" 301 0
+WARNING 2023-10-01 19:58:27,131 log 12072 6496 Not Found: /dz/client/1/7/
+WARNING 2023-10-01 19:58:27,131 basehttp 12072 6496 "GET /dz/client/1/7/ HTTP/1.1" 404 3166
