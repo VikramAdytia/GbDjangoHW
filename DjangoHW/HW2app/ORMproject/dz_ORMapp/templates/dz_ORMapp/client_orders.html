@@ -2,16 +2,16 @@
 
 {% block title %}
     {{ client.name }} 
-{% end block %}
+{% endblock %}
 
 {% block content %}
     <h2>Ordered products: {{ client.name }}</h2>
     <table>
-        {% for post in posts %}
+        {% for order in orders %}
             <tr>
                 <td> <a href="{% url 'order_full' order.id %}">{{ order.products}}</a>
                 <td>{{ order.get_all_products }}</td>
             </tr>
-        {% end for %}
+        {% endfor %}
     </table>
-{% end block %}
+{% endblock %}
