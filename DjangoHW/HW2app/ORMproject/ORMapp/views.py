@@ -7,8 +7,8 @@ logger = logging.getLogger(__name__)
 
 def index(request):
     logger.info('Index page accessed')
-    return HttpResponse("""Hello, Урок 2. Django ORM и связи!
-    <a href=http://127.0.0.1:8000/dz/about/>о</a>""")
+    return HttpResponse("""Hello, Урок 4. Работа с пользователями и права в Django. 
+    <a href=http://127.0.0.1:8000/dz/product/add/> Оптимизация проекта</a>""")
 
 def about(request):
     try:
